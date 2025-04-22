@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function (){
 
 const botaoacessibilidade = document.grtElementbyid('botao-acesssibilidade');
-const opcoesDeAcesibilidade = document.grtElementByid (opcoes-acessibilidade);
+const opcoesDeAcesibilidade = document.grtElementByid ('opcoes-acessibilidade')
 
 botaoDeAcesibilidade.addEventListener ('click', function(){
 botaoDeAcesibilidade.classList.toggle('rotacao-botao');
